@@ -1,0 +1,24 @@
+.card-section {
+    /* padding: 2em 5em 5em 5em; */
+    margin: 3em;
+}
+
+.card-section-1{
+    /* padding: 2em 5em 5em 5em; */
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.child {
+    margin: 0 auto;
+    /* max-height: fit-content; */
+    height: fit-content;
+    max-width: 50em;
+    background-color: #1e2738;
+    color: #a5b3ce;
+    padding-left: 5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-right: 5em;
+    border-radius: 1em;
+}
